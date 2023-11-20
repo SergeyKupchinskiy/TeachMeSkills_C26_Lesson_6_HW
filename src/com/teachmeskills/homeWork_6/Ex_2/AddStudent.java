@@ -38,7 +38,7 @@ public class AddStudent {
             }
 
             for (Student i: group) {
-                System.out.println("Name: " + i.name +" " + i.surname + ". Passport number: " + i.passportNumber + ". Number group: " + i.groupName);
+                System.out.println("Name: " + i.name +" " + i.surname + ". Passport number: " + i.passportNumber + ". Group name: " + i.groupName);
             }
         }
     }
